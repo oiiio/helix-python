@@ -1,3 +1,4 @@
+from helix.helix import Helix
 
 _DEFAULT_CONFIG = {
     'HELIX_STAGING': False,
@@ -9,7 +10,7 @@ _DEFAULT_CONFIG = {
 }
 
 
-class Helix:
+class FlaskHelix:
     def __init__(self, app=None, **kwargs):  # noqa: D102
         self.app = None
         self.helix = None
