@@ -1,0 +1,722 @@
+[
+  {
+    "alternateBases": [
+      "\u003cNON_REF\u003e"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          -1,
+          -1
+        ],
+        "genotypeLikelihood": [
+          -0,
+          -0,
+          -0
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "0"
+          ],
+          "GP": [
+            "."
+          ],
+          "GQ": [
+            "0"
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "11614",
+    "id": "CJCt7cTqhJqJlgESBGNocjIYzlMg9ODDnMHV9JnDAQ",
+    "referenceBases": "A",
+    "referenceName": "chr2",
+    "start": "10702",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "A"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          0,
+          1
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "."
+          ],
+          "FILTER": [
+            "PASS"
+          ],
+          "GP": [
+            "0.003",
+            "0.995",
+            "0.002"
+          ],
+          "GQ": [
+            "."
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "11320",
+    "id": "CJCt7cTqhJqJlgESBGNocjIYt1gg3-3m7on1uJDqAQ",
+    "referenceBases": "G",
+    "referenceName": "chr2",
+    "start": "11319",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "\u003cNON_REF\u003e"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          -1,
+          -1
+        ],
+        "genotypeLikelihood": [
+          -0,
+          -0.3,
+          -3.1
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "1"
+          ],
+          "GP": [
+            "."
+          ],
+          "GQ": [
+            "3"
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "17345398",
+    "id": "CJCt7cTqhJqJlgESBGNocjEYt9aiCCCvq9blod2L8hU",
+    "referenceBases": "G",
+    "referenceName": "chr1",
+    "start": "17345335",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "\u003cNON_REF\u003e"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          -1,
+          -1
+        ],
+        "genotypeLikelihood": [
+          -0,
+          -0,
+          -0
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "1"
+          ],
+          "GP": [
+            "."
+          ],
+          "GQ": [
+            "0"
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "17345413",
+    "id": "CJCt7cTqhJqJlgESBGNocjEY9taiCCDN-uXwj6_HvWw",
+    "referenceBases": "G",
+    "referenceName": "chr1",
+    "start": "17345398",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "\u003cNON_REF\u003e"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          -1,
+          -1
+        ],
+        "genotypeLikelihood": [
+          -0,
+          -0.3,
+          -3.1
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "1"
+          ],
+          "GP": [
+            "."
+          ],
+          "GQ": [
+            "3"
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "17345478",
+    "id": "CJCt7cTqhJqJlgESBGNocjEYhdeiCCCT1f_Jg_3u-QY",
+    "referenceBases": "G",
+    "referenceName": "chr1",
+    "start": "17345413",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "C"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          0,
+          0
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "."
+          ],
+          "FILTER": [
+            "PASS"
+          ],
+          "GP": [
+            "1",
+            "0",
+            "0"
+          ],
+          "GQ": [
+            "."
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "17345420",
+    "id": "CJCt7cTqhJqJlgESBGNocjEYi9eiCCCD5dHc2a-2iFk",
+    "referenceBases": "T",
+    "referenceName": "chr1",
+    "start": "17345419",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "\u003cNON_REF\u003e"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          -1,
+          -1
+        ],
+        "genotypeLikelihood": [
+          -0,
+          -0,
+          -0
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "0"
+          ],
+          "GP": [
+            "."
+          ],
+          "GQ": [
+            "0"
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "45798287",
+    "id": "CJCt7cTqhJqJlgESBGNocjEYgaLrFSCC-qz3iZLl67oB",
+    "referenceBases": "G",
+    "referenceName": "chr1",
+    "start": "45797633",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "\u003cNON_REF\u003e"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          -1,
+          -1
+        ],
+        "genotypeLikelihood": [
+          -0,
+          -0.6,
+          -4.9
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "2"
+          ],
+          "GP": [
+            "."
+          ],
+          "GQ": [
+            "6"
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "45798322",
+    "id": "CJCt7cTqhJqJlgESBGNocjEYj6frFSDM4_Hht8zY2oMB",
+    "referenceBases": "C",
+    "referenceName": "chr1",
+    "start": "45798287",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "\u003cNON_REF\u003e"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          -1,
+          -1
+        ],
+        "genotypeLikelihood": [
+          -0,
+          -0.9,
+          -8
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "3"
+          ],
+          "GP": [
+            "."
+          ],
+          "GQ": [
+            "9"
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "45798326",
+    "id": "CJCt7cTqhJqJlgESBGNocjEYsqfrFSC-purWio65maAB",
+    "referenceBases": "A",
+    "referenceName": "chr1",
+    "start": "45798322",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "\u003cNON_REF\u003e"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          -1,
+          -1
+        ],
+        "genotypeLikelihood": [
+          -0,
+          -0.9,
+          -8.4
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "3"
+          ],
+          "GP": [
+            "."
+          ],
+          "GQ": [
+            "9"
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "45798329",
+    "id": "CJCt7cTqhJqJlgESBGNocjEYtqfrFSCE8sOfrKzG7CM",
+    "referenceBases": "A",
+    "referenceName": "chr1",
+    "start": "45798326",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "\u003cNON_REF\u003e"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          -1,
+          -1
+        ],
+        "genotypeLikelihood": [
+          -0,
+          -0.9,
+          -8.3
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "3"
+          ],
+          "GP": [
+            "."
+          ],
+          "GQ": [
+            "9"
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "45798330",
+    "id": "CJCt7cTqhJqJlgESBGNocjEYuafrFSDqvICHjaO10lQ",
+    "referenceBases": "T",
+    "referenceName": "chr1",
+    "start": "45798329",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "\u003cNON_REF\u003e"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          -1,
+          -1
+        ],
+        "genotypeLikelihood": [
+          -0,
+          -0.9,
+          -8.5
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "3"
+          ],
+          "GP": [
+            "."
+          ],
+          "GQ": [
+            "9"
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "45798331",
+    "id": "CJCt7cTqhJqJlgESBGNocjEYuqfrFSDHhuSVoomTyEM",
+    "referenceBases": "T",
+    "referenceName": "chr1",
+    "start": "45798330",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "\u003cNON_REF\u003e"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          -1,
+          -1
+        ],
+        "genotypeLikelihood": [
+          -0,
+          -1.2,
+          -11.3
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "4"
+          ],
+          "GP": [
+            "."
+          ],
+          "GQ": [
+            "12"
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "45798336",
+    "id": "CJCt7cTqhJqJlgESBGNocjEYu6frFSC5nvG--Pm-2B0",
+    "referenceBases": "G",
+    "referenceName": "chr1",
+    "start": "45798331",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "\u003cNON_REF\u003e"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          -1,
+          -1
+        ],
+        "genotypeLikelihood": [
+          -0,
+          -1.5,
+          -14.3
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "5"
+          ],
+          "GP": [
+            "."
+          ],
+          "GQ": [
+            "15"
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "45798340",
+    "id": "CJCt7cTqhJqJlgESBGNocjEYwKfrFSDs18-Mu9P6zFo",
+    "referenceBases": "G",
+    "referenceName": "chr1",
+    "start": "45798336",
+    "variantSetId": "10813820170516780688"
+  },
+  {
+    "alternateBases": [
+      "\u003cNON_REF\u003e"
+    ],
+    "calls": [
+      {
+        "callSetId": "PC-VCIOSK47ERXXIBPO5ZBOMW2HSNCQETCY",
+        "genotype": [
+          -1,
+          -1
+        ],
+        "genotypeLikelihood": [
+          -0,
+          -0.9,
+          -9.2
+        ],
+        "info": {
+          "AD": [
+            "."
+          ],
+          "DP": [
+            "3"
+          ],
+          "GP": [
+            "."
+          ],
+          "GQ": [
+            "9"
+          ],
+          "IGT": [
+            "."
+          ],
+          "PGT": [
+            "."
+          ],
+          "PID": [
+            "."
+          ]
+        }
+      }
+    ],
+    "end": "45798374",
+    "id": "CJCt7cTqhJqJlgESBGNocjEYxKfrFSDKu5aa3PrWzZYB",
+    "referenceBases": "T",
+    "referenceName": "chr1",
+    "start": "45798340",
+    "variantSetId": "10813820170516780688"
+  }
+]
