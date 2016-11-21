@@ -10,10 +10,12 @@ _DEFAULT_CONFIG = {
 }
 
 
-class FlaskHelix:
+class FlaskHelix(Helix):
     def __init__(self, app=None, **kwargs):  # noqa: D102
         self.app = None
         self.helix = None
+
+        super(FlaskHelix, self).__init__(**kwargs)
 
         if app:
             self.init_app(app, **kwargs)
@@ -37,11 +39,9 @@ class FlaskHelix:
         for key, value in kwargs.items():
             app.config[key] = value
 
-        self.helix = Helix(
-            staging=app.config.get('HELIX_STAGING'),
-            grant_type=app.config.get('HELIX_AUTH_GRANT_TYPE'),
-            client_id=app.config.get('HELIX_IDENTITY_CLIENT_ID'),
-            client_secret=app.config.get('HELIX_IDENTITY_SECRET'),
-            genomic_client_id=app.config.get('HELIX_GENOMIC_CLIENT_ID'),
-            genomic_client_secret=app.config.get('HELIX_GENOMIC_SECRET'),
-        )
+        self.is_staging = app.config.get("HELIX_STAGING", False)
+        self.grant_type = app.config.get("HELIX_AUTH_GRANT_TYPE", "cient_credentials")
+        self.client_id = app.config.get("HELIX_IDENTITY_CLIENT_ID", None)
+        self.client_secret = app.config.get("HELIX_IDENTITY_SECRET", None)
+        self.genomic_client_id = app.config.get("HELIX_GENOMIC_CLIENT_ID", None)
+        self.genomic_client_secret = app.config.get("HELIX_GENOMIC_SECRET", None)
