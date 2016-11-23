@@ -20,7 +20,7 @@ class Scope:
     GENOMICS = "genomics"
 
 
-class Helix:
+class Helix(object):
     def __init__(self, staging=False, **kwargs):
         self.expires = Pendulum.now()
         self.scope = Scope.IDENTITY
