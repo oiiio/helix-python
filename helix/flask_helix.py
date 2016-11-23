@@ -1,4 +1,4 @@
-from helix.helix import Helix
+from .helix import Helix
 
 _DEFAULT_CONFIG = {
     'HELIX_STAGING': False,

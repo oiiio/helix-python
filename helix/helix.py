@@ -6,7 +6,7 @@ import requests
 from pendulum import Pendulum
 from requests.auth import HTTPBasicAuth
 
-from helix.schemas import EventSchema, CustomerInfoSchema, SampleStatusSchema, VariantSchema
+from .schemas import EventSchema, CustomerInfoSchema, SampleStatusSchema, VariantSchema
 
 
 class EventTypes(Enum):
