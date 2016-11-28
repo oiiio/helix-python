@@ -4,3 +4,4 @@ pendulum
 marshmallow
 requests
 wheel>=0.22
+enum34
