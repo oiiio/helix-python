@@ -21,9 +21,14 @@ Documentation
 The full documentation is at http://helix-python.rtfd.org."""
 history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
+def get_version():
+    with open('version.py') as version_file:
+        return re.search(r"""__version__\s+=\s+(['"])(?P<version>.+?)\1""",
+                         version_file.read()).group('version')
+
 setup(
     name='helix-python',
-    version='0.1.0',
+    version='1.0',
     description='helix',
     long_description=readme + '\n\n' + doclink + '\n\n' + history,
     author='Eric plaster',
