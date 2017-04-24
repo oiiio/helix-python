@@ -35,10 +35,11 @@ class Helix(object):
     @property
     def url(self):
         if self.is_staging:
-            return "https://{}.{}helix.com/v1".format(
-                "api" if self.scope != Scope.GENOMICS else "genomics",
-                "staging." if self.is_staging else ''
-            )
+            if self.scope != Scope.GENOMICS:
+                return "https://{}.{}helix.com/v0".format("api", "staging." if self.is_staging else '')
+            else:
+                return "https://{}.{}helix.com/v1".format("genomics", "staging." if self.is_staging else '')
+
 
     def login(self, scope=Scope.IDENTITY):
         if scope:
