@@ -36,7 +36,7 @@ class Helix(object):
     def url(self):
         if self.is_staging:
             if self.scope != Scope.GENOMICS:
-                return "https://{}.{}helix.com/v0".format("api", "staging." if self.is_staging else '')
+                return "https://{}.{}helix.com/v1".format("api", "staging." if self.is_staging else '')
             else:
                 return "https://{}.{}helix.com/v1".format("genomics", "staging." if self.is_staging else '')
 
